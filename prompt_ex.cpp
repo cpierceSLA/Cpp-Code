@@ -1,4 +1,5 @@
 // Demo code written and annotated by Colin Pierce.
+
 // #include defines which command types to use.
 #include <cstdio>
 
